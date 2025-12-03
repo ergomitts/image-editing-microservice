@@ -2,9 +2,7 @@ import zmq
 import json 
 import os
 
-PORT = 1738
-
-
+PORT = 1739
 
 def main():
     context = zmq.Context()
