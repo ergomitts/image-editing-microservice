@@ -4,7 +4,7 @@ import io
 import os
 from PIL import Image
 
-PORT = 1738
+PORT = 1739
 
 image_path = None
 
